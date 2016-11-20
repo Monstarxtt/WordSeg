@@ -5,6 +5,7 @@ import sys
 import math
 import os
 
+
 class TrainHmm:
     def __init__(self,TrainingFile,TestFile):
         self.train_set = TrainingFile
